@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Temporary directories
+~/
+
+# Sensitive files
+email-page.png
+*.bak
+security-audit-result.*
+save_salary_emails.js
+
+# Logs and cache
+.clawhub/
